@@ -1,5 +1,5 @@
 ### 时乃空 ###
-Twitter https://twitter.com/tokino_sor
+Twitter https://twitter.com/tokino_sora
 Youtube https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg
 Bilibili https://space.bilibili.com/286179206
 B站直播间 https://live.bilibili.com/8899503
