@@ -1,8 +1,8 @@
 ### 时乃空 ###
-Twitter [https://twitter.com/tokino_sora](https://twitter.com/tokino_sora)
-Youtube [https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg](https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg)
-Bilibili [https://space.bilibili.com/286179206](https://space.bilibili.com/286179206)
-B站直播间 [https://live.bilibili.com/8899503](https://live.bilibili.com/8899503)
+Twitter https://twitter.com/tokino_sor
+Youtube https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg
+Bilibili https://space.bilibili.com/286179206
+B站直播间 https://live.bilibili.com/8899503
 ### 萝卜子 ###
 https://twitter.com/robocosan
 https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g
