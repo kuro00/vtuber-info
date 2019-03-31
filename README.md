@@ -3,7 +3,7 @@ vtuber信息整理
 
 目录：
 
-[entum](.files/entum.md)  
+[entum](./files/entum.md)  
 [hololive](./files/hololive.md)  
 [nijisanji 彩虹社 `施工中`](./files/Ichikara.md)  
 [Overidea](./files/Overidea.md)  
