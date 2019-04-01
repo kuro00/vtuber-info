@@ -76,3 +76,7 @@ https://twitter.com/ookamimio
 https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg  
 https://space.bilibili.com/389862071/  
 https://live.bilibili.com/21133979  
+### 猫又おかゆ ###
+https://twitter.com/nekomataokayu  
+### 戌神ころね ###
+https://twitter.com/inugamikorone  
