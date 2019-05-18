@@ -12,7 +12,7 @@ https://space.bilibili.com/372984197
 https://live.bilibili.com/14052636
 ### 神楽めあ ###
 <del>https://twitter.com/KaguraMea</del>  
-https://twitter.com/Freeze_Mea  
+<del>https://twitter.com/Freeze_Mea</del>  
 https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw  
 https://space.bilibili.com/349991143  
 https://live.bilibili.com/12235923  
