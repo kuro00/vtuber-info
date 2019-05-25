@@ -77,9 +77,18 @@ https://twitter.com/ookamimio
 https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg  
 https://space.bilibili.com/389862071/  
 https://live.bilibili.com/21133979  
-### 猫又おかゆ ###
+### 猫又小粥 ###
 https://twitter.com/nekomataokayu  
 https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw  
-### 戌神ころね ###
+### 戌神沁音 ###
 https://twitter.com/inugamikorone  
 https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q  
+
+### AZKi ###  
+https://twitter.com/AZKi_VDiVA  
+https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw/  
+https://space.bilibili.com/389056211  
+https://live.bilibili.com/21267062  
+### 星街水星 ###  
+https://twitter.com/suisei_hosimati  
+https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A  
