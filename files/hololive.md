@@ -4,25 +4,30 @@ https://twitter.com/hololivetv
 https://space.bilibili.com/286700005/  
 https://live.bilibili.com/8982686  
 
+# 所属艺人 #
 ### 时乃空 ###
 ときのそら  
+<img src="./hololive/01.png" width="200" />    
 https://twitter.com/tokino_sora  
 https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg  
 https://space.bilibili.com/286179206/  
 https://live.bilibili.com/8899503  
 ### 萝卜子 ###
 ロボ子さん  
+<img src="./hololive/02.png" width="200" />   
 https://twitter.com/robocosan  
 https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g  
 https://space.bilibili.com/20813493/  
 https://live.bilibili.com/4664126  
 ### 樱巫女 ###
 さくらみこ  
+<img src="./hololive/03.png" width="200" />   
 https://twitter.com/sakuramiko35  
 https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA  
 https://space.bilibili.com/366690056/  
 https://live.bilibili.com/21144047  
 
+# 一期生 #
 ### 夜空梅露 ###
 夜空メル  
 https://twitter.com/yozoramel  
@@ -54,6 +59,7 @@ https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg
 https://space.bilibili.com/336731767/  
 https://live.bilibili.com/13946381  
 
+# 二期生 #
 ### 凑阿库娅 ###
 湊あくあ  
 https://twitter.com/minatoaqua  
@@ -85,12 +91,51 @@ https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA
 https://space.bilibili.com/389859190/  
 https://live.bilibili.com/21129632  
 
+# 三期生 #
+### 兔田佩克拉 ###
+兎田ぺこら  
+https://twitter.com/usadapekora  
+https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ  
+https://space.bilibili.com/443305053/  
+https://live.bilibili.com/21560356  
+### 润羽露西娅 ###
+潤羽るしあ  
+https://twitter.com/uruharushia  
+https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ  
+https://space.bilibili.com/443300418  
+https://live.bilibili.com/21545232  
+### 不知火芙蕾雅 ###
+不知火フレア  
+https://twitter.com/shiranuiflare  
+https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg  
+https://space.bilibili.com/454737600  
+
+### 白银诺艾尔 ###
+白銀ノエル  
+https://twitter.com/shiroganenoel  
+https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ  
+https://space.bilibili.com/454733056  
+
+### 宝钟玛琳 ###
+宝鐘マリン  
+https://twitter.com/houshoumarine  
+https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg  
+https://space.bilibili.com/454955503  
+
+
+# Gamers #
 ### 大神澪 ###
 大空スバル  
 https://twitter.com/ookamimio  
 https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg  
 https://space.bilibili.com/389862071/  
 https://live.bilibili.com/21133979  
+### 白上吹雪 ###
+白上フブキ  
+https://twitter.com/shirakamifubuki  
+https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg  
+https://space.bilibili.com/332704117/  
+https://live.bilibili.com/11588230  
 ### 猫又小粥 ###
 猫又おかゆ  
 https://twitter.com/nekomataokayu  
@@ -104,6 +149,7 @@ https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q
 https://space.bilibili.com/412135619  
 https://live.bilibili.com/21421141  
 
+# INNK Music #
 ### AZKi ###
 AZKi  
 https://twitter.com/AZKi_VDiVA  
