@@ -212,13 +212,13 @@ https://space.bilibili.com/427061218
 https://live.bilibili.com/21618129   
 ### 希薇婭 ###
 希薇婭/Civia   
-<img src="./images/holochina/002.png" width="200" />
+<img src="./images/holochina/002.png" width="200" />   
 https://twitter.com/Civia_Hololive   
 https://space.bilibili.com/354411419/   
 https://live.bilibili.com/21618138   
 ### 黒桃影 ###
 黒桃影/Spade Echo  
-<img src="./images/holochina/003.png" width="200" /> 
+<img src="./images/holochina/003.png" width="200" />   
 https://twitter.com/SpadeEcho   
 https://space.bilibili.com/456368455   
 https://live.bilibili.com/21641569   
