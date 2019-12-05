@@ -202,23 +202,23 @@ https://www.youtube.com/channel/UCGKgJ4MtJ1coi6tWJUfnsQA
 https://twitter.com/rikkaroid   
 https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w   
 
-# holo中国 #
+# hololive China #
 
 ### 夜霧 ###
 夜霧/Yogiri   
-<img src="./images/holochina/001.png" width="200" />    
+<img src="./images/hololivecn/001.png" width="200" />    
 https://twitter.com/Yogiri_hololive   
 https://space.bilibili.com/427061218   
 https://live.bilibili.com/21618129   
 ### 希薇婭 ###
 希薇婭/Civia   
-<img src="./images/holochina/002.png" width="200" />   
+<img src="./images/hololivecn/002.png" width="200" />   
 https://twitter.com/Civia_Hololive   
 https://space.bilibili.com/354411419/   
 https://live.bilibili.com/21618138   
 ### 黒桃影 ###
 黒桃影/Spade Echo  
-<img src="./images/holochina/003.png" width="200" />   
+<img src="./images/hololivecn/003.png" width="200" />   
 https://twitter.com/SpadeEcho   
 https://space.bilibili.com/456368455   
 https://live.bilibili.com/21641569   
