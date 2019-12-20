@@ -5,7 +5,7 @@ vtuber信息整理
 
 [hololive](./files/hololive.md)  
 [nijisanji 彩虹社 `施工中`](./files/Ichikara.md)  
-[Overidea](./files/Overidea.md)  
+[oveRidea](./files/oveRidea.md)  
 [Project Paryi](./files/Project_Paryi.md)  
 [Upd8 `施工中`](./files/Upd8.md)  
 [个人势](./files/Kojinzei.md)
