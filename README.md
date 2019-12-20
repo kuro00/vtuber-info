@@ -8,6 +8,6 @@ vtuber信息整理
 [oveRidea](./files/oveRidea.md)  
 [Project Paryi](./files/Project_Paryi.md)  
 [Upd8 `施工中`](./files/Upd8.md)  
-[个人势](./files/Kojinzei.md)
+[个人势 `施工中`](./files/Kojinzei.md)
 
 [entum `终止活动`](./files/entum.md)  
