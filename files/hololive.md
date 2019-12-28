@@ -275,7 +275,7 @@ https://live.bilibili.com/21641569
 # INNK Music #
 ### AZKi ###
 AZKi  
-<img src="./images/innk/001.png" width="200" />    
+<img src="./images/INNK/001.png" width="200" />    
 https://twitter.com/AZKi_VDiVA  
 https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw/  
 https://space.bilibili.com/389056211/  
