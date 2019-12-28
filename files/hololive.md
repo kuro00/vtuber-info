@@ -36,6 +36,7 @@ https://space.bilibili.com/366690056/
 https://live.bilibili.com/21144047  
 ### 夜空梅露 ###
 夜空メル  
+*一期生*   
 <img src="./images/hololive/004.png" width="200" />    
 https://twitter.com/yozoramel  
 https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw/  
@@ -43,6 +44,8 @@ https://space.bilibili.com/389856447/
 https://live.bilibili.com/21131813  
 ### 白上吹雪 ###
 白上フブキ  
+*一期生*   
+*Gamers*   
 <img src="./images/hololive/005.png" width="200" />    
 https://twitter.com/shirakamifubuki  
 https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg/  
@@ -50,6 +53,7 @@ https://space.bilibili.com/332704117/
 https://live.bilibili.com/11588230  
 ### 夏色祭 ###
 夏色まつり  
+*一期生*   
 <img src="./images/hololive/006.png" width="200" />    
 https://twitter.com/natsuiromatsuri  
 https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg/  
@@ -57,6 +61,7 @@ https://space.bilibili.com/336731767/
 https://live.bilibili.com/13946381  
 ### 赤井心 ###
 赤井はあと  
+*一期生*   
 <img src="./images/hololive/007.png" width="200" />    
 https://twitter.com/akaihaato  
 https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg/  
@@ -64,6 +69,7 @@ https://space.bilibili.com/339567211/
 https://live.bilibili.com/14275133  
 ### 亚绮·罗森塔尔 ###
 アキ・ローゼンタール  
+*一期生*   
 <img src="./images/hololive/008.png" width="200" />    
 https://twitter.com/akirosenthal  
 https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA/  
@@ -71,6 +77,7 @@ https://space.bilibili.com/389857131/
 https://live.bilibili.com/21219990  
 ### 凑阿库娅 ###
 湊あくあ  
+*二期生*   
 <img src="./images/hololive/009.png" width="200" />    
 https://twitter.com/minatoaqua  
 https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/  
@@ -78,6 +85,7 @@ https://space.bilibili.com/375504219/
 https://live.bilibili.com/14917277  
 ### 百鬼绫目 ###
 百鬼あやめ  
+*二期生*   
 <img src="./images/hololive/010.png" width="200" />    
 https://twitter.com/nakiriayame  
 https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg/  
@@ -85,6 +93,7 @@ https://space.bilibili.com/389858027/
 https://live.bilibili.com/21130785  
 ### 愈月巧可 ###
 癒月ちょこ  
+*二期生*   
 <img src="./images/hololive/011.png" width="200" />    
 https://twitter.com/yuzukichococh  
 https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg/  
@@ -92,6 +101,7 @@ https://space.bilibili.com/389858754/
 https://live.bilibili.com/21107534  
 ### 紫咲诗音 ###
 紫咲シオン  
+*二期生*   
 <img src="./images/hololive/012.png" width="200" />    
 https://twitter.com/murasakishionch  
 https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw/  
@@ -99,6 +109,7 @@ https://space.bilibili.com/389857640/
 https://live.bilibili.com/21132965  
 ### 大空昴 ###
 大空スバル  
+*二期生*   
 <img src="./images/hololive/013.png" width="200" />    
 https://twitter.com/oozorasubaru  
 https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA/  
@@ -106,6 +117,7 @@ https://space.bilibili.com/389859190/
 https://live.bilibili.com/21129632  
 ### 大神澪 ###
 大空スバル  
+*Gamers*   
 <img src="./images/hololive/014.png" width="200" />    
 https://twitter.com/ookamimio  
 https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg/  
@@ -113,6 +125,7 @@ https://space.bilibili.com/389862071/
 https://live.bilibili.com/21133979  
 ### 猫又小粥 ###
 猫又おかゆ  
+*Gamers*   
 <img src="./images/hololive/015.png" width="200" />    
 https://twitter.com/nekomataokayu  
 https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw/  
@@ -120,6 +133,7 @@ https://space.bilibili.com/412135222/
 https://live.bilibili.com/21420932  
 ### 戌神沁音 ###
 戌神ころね  
+*Gamers*   
 <img src="./images/hololive/016.png" width="200" />    
 https://twitter.com/inugamikorone  
 https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q/  
@@ -127,6 +141,7 @@ https://space.bilibili.com/412135619/
 https://live.bilibili.com/21421141  
 ### 不知火芙蕾雅 ###
 不知火フレア  
+*三期生*   
 <img src="./images/hololive/017.png" width="200" />    
 https://twitter.com/shiranuiflare  
 https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg/  
@@ -134,6 +149,7 @@ https://space.bilibili.com/454737600/
 https://live.bilibili.com/21572617
 ### 白银诺艾尔 ###
 白銀ノエル  
+*三期生*   
 <img src="./images/hololive/018.png" width="200" />    
 https://twitter.com/shiroganenoel  
 https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ/  
@@ -141,6 +157,7 @@ https://space.bilibili.com/454733056/
 https://live.bilibili.com/21583736  
 ### 宝钟玛琳 ###
 宝鐘マリン  
+*三期生*   
 <img src="./images/hololive/019.png" width="200" />    
 https://twitter.com/houshoumarine  
 https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg/  
@@ -148,6 +165,7 @@ https://space.bilibili.com/454955503/
 https://live.bilibili.com/21584153  
 ### 兔田佩克拉 ###
 兎田ぺこら  
+*三期生*   
 <img src="./images/hololive/020.png" width="200" />    
 https://twitter.com/usadapekora  
 https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ/  
@@ -155,6 +173,7 @@ https://space.bilibili.com/443305053/
 https://live.bilibili.com/21560356  
 ### 润羽露西娅 ###
 潤羽るしあ  
+*三期生*   
 <img src="./images/hololive/021.png" width="200" />    
 https://twitter.com/uruharushia  
 https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ/  
@@ -167,6 +186,36 @@ https://twitter.com/suisei_hosimati
 https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A/  
 https://space.bilibili.com/9034870/  
 https://live.bilibili.com/190577  
+###  ###
+天音かなた   
+*四期生*   
+<img src="./images/hololive/023.png" width="200" />    
+https://twitter.com/amanekanatach   
+https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg   
+###  ###
+桐生ココ   
+*四期生*   
+<img src="./images/hololive/024.png" width="200" />    
+https://twitter.com/kiryucoco   
+https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w   
+###  ###
+角巻わため   
+*四期生*   
+<img src="./images/hololive/025.png" width="200" />    
+https://twitter.com/tsunomakiwatame   
+https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA   
+###  ###
+常闇トワ   
+*四期生*   
+<img src="./images/hololive/026.png" width="200" />    
+https://twitter.com/tokoyamitowa   
+https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw   
+###  ###
+姫森ルーナ   
+*四期生*   
+<img src="./images/hololive/027.png" width="200" />    
+https://twitter.com/himemoriluna   
+https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw   
 
 # holostars #
 https://space.bilibili.com/444316844/   
