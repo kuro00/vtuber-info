@@ -284,19 +284,19 @@ https://www.hololive.tv/portfolio/items/336267
 https://twitter.com/rikkaroid   
 https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w   
 ###  ###
-アステル・レダ
+アステル・レダ   
 <img src="./images/holostars/007.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355938   
 https://twitter.com/astelleda   
 https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg   
 ###  ###
-岸堂天真
+岸堂天真   
 <img src="./images/holostars/008.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355941   
 https://twitter.com/kishidotemma   
 https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg
 ###  ###
-夕刻ロベル
+夕刻ロベル   
 <img src="./images/holostars/009.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355943   
 https://twitter.com/yukokuroberu   
