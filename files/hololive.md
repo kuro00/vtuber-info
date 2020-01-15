@@ -257,55 +257,55 @@ https://live.bilibili.com/21752719
 # holostars #
 https://space.bilibili.com/444316844/   
 
-###  ###
+### 花咲雅 ###
 花咲みやび   
 <img src="./images/holostars/001.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336230   
 https://twitter.com/miyabihanasaki   
 https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw   
-###  ###
+### 奏手一弦 ###
 奏手イヅル   
 <img src="./images/holostars/002.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336242   
 https://twitter.com/kanadeizuru   
 https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA   
-###  ###
+### 镜见Kira ###
 鏡見キラ   
 <img src="./images/holostars/003.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336245   
 https://twitter.com/kagamikirach   
 https://www.youtube.com/channel/UCEzsociuFqVwgZuMaZqaCsg   
-###  ###
+### 阿鲁兰迪斯 ###
 アルランディス   
 <img src="./images/holostars/004.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336261   
 https://twitter.com/arurandeisu   
 https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ   
-###  ###
+### 药师寺朱雀 ###
 薬師寺朱雀   
 <img src="./images/holostars/005.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336260   
 https://twitter.com/yakushijisuzaku   
 https://www.youtube.com/channel/UCGKgJ4MtJ1coi6tWJUfnsQA   
-###  ###
+### 律可 ###
 律可   
 <img src="./images/holostars/006.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336267   
 https://twitter.com/rikkaroid   
 https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w   
-###  ###
+### Astel Leda ###
 アステル・レダ   
 <img src="./images/holostars/007.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355938   
 https://twitter.com/astelleda   
 https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg   
-###  ###
+### 岸堂天真 ###
 岸堂天真   
 <img src="./images/holostars/008.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355941   
 https://twitter.com/kishidotemma   
 https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg
-###  ###
+### 夕刻Robel ###
 夕刻ロベル   
 <img src="./images/holostars/009.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355943   
