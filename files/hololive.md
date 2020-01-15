@@ -208,41 +208,51 @@ https://twitter.com/suisei_hosimati
 https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A/  
 https://space.bilibili.com/9034870/  
 https://live.bilibili.com/190577  
-###  ###
+### 天音彼方 ###
 天音かなた   
 *四期生*   
 <img src="./images/hololive/023.png" width="200" />    
 https://www.hololive.tv/portfolio/items/360916   
 https://twitter.com/amanekanatach   
 https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg   
-###  ###
+https://space.bilibili.com/491474048/   
+https://live.bilibili.com/21752681   
+### 桐生可可 ###
 桐生ココ   
 *四期生*   
 <img src="./images/hololive/024.png" width="200" />    
 https://www.hololive.tv/portfolio/items/360918   
 https://twitter.com/kiryucoco   
 https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w   
-###  ###
+https://space.bilibili.com/491474049/   
+https://live.bilibili.com/21752686   
+### 角卷棉芽 ###
 角巻わため   
 *四期生*   
 <img src="./images/hololive/025.png" width="200" />    
 https://www.hololive.tv/portfolio/items/360919   
 https://twitter.com/tsunomakiwatame   
 https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA   
-###  ###
+https://space.bilibili.com/491474050/   
+https://live.bilibili.com/21752694   
+### 常闇永远 ###
 常闇トワ   
 *四期生*   
 <img src="./images/hololive/026.png" width="200" />    
 https://www.hololive.tv/portfolio/items/360920   
 https://twitter.com/tokoyamitowa   
 https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw   
-###  ###
+https://space.bilibili.com/491474051/   
+https://live.bilibili.com/21752710   
+### 姫森璐娜 ###
 姫森ルーナ   
 *四期生*   
 <img src="./images/hololive/027.png" width="200" />    
 https://www.hololive.tv/portfolio/items/360921   
 https://twitter.com/himemoriluna   
 https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw   
+https://space.bilibili.com/491474052/   
+https://live.bilibili.com/21752719   
 
 # holostars #
 https://space.bilibili.com/444316844/   
