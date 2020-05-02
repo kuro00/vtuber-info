@@ -335,6 +335,27 @@ https://www.hololive.tv/portfolio/items/345961
 https://twitter.com/SpadeEcho   
 https://space.bilibili.com/456368455   
 https://live.bilibili.com/21641569   
+### 朵莉丝 ###
+朵莉丝/Doris   
+瓦瓦子ooc（pixiv ID:25486006）   
+<img src="./images/hololivecn/004.png" width="200" />   
+https://twitter.com/Doris_Hololive   
+https://space.bilibili.com/511613156   
+https://live.bilibili.com/21908209   
+### 阿媂娅 ###
+阿媂娅/Artia   
+Paryi（@par1y）   
+<img src="./images/hololivecn/005.png" width="200" />   
+https://twitter.com/Artia_Hololive   
+https://space.bilibili.com/511613155   
+https://live.bilibili.com/21908196   
+### 罗莎琳 ###
+罗莎琳/Rosalyn   
+ちょん＊（@xx_Chon_xx）   
+<img src="./images/hololivecn/006.png" width="200" />   
+https://twitter.com/Rosalyn_holoCN   
+https://space.bilibili.com/511613157   
+https://live.bilibili.com/21908222   
 
 # INNK Music #
 ### AZKi ###
