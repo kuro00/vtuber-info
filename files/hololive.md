@@ -235,7 +235,7 @@ https://twitter.com/tsunomakiwatame
 https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA   
 https://space.bilibili.com/491474050/   
 https://live.bilibili.com/21752694   
-### 常闇永远 ###
+### 常暗永远 ###
 常闇トワ   
 *四期生*   
 <img src="./images/hololive/026.png" width="200" />    
