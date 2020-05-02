@@ -7,6 +7,12 @@ https://schedule.hololive.tv/
 https://twitter.com/hololivetv  
 https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg  
 
+# YAGOO #
+谷乡元昭   
+<img src="./images/yagoo.jpg" width="200" />   
+https://twitter.com/tanigox   
+https://ja-jp.facebook.com/tanigo   
+http://tanigo.com/   
 
 # hololive #
 https://space.bilibili.com/286700005/  
@@ -258,78 +264,111 @@ https://live.bilibili.com/21752719
 https://space.bilibili.com/444316844/   
 
 ### 花咲雅 ###
-花咲みやび   
+花咲みやび      
+*一期生*   
 <img src="./images/holostars/001.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336230   
 https://twitter.com/miyabihanasaki   
 https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw   
 ### 奏手一弦 ###
-奏手イヅル   
+奏手イヅル      
+*一期生*   
 <img src="./images/holostars/002.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336242   
 https://twitter.com/kanadeizuru   
 https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA   
 ### 镜见Kira ###
-鏡見キラ   
+鏡見キラ      
+*一期生*   
 <img src="./images/holostars/003.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336245   
 https://twitter.com/kagamikirach   
 https://www.youtube.com/channel/UCEzsociuFqVwgZuMaZqaCsg   
 ### 阿鲁兰迪斯 ###
-アルランディス   
+アルランディス      
+*一期生*   
 <img src="./images/holostars/004.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336261   
 https://twitter.com/arurandeisu   
 https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ   
 ### 药师寺朱雀 ###
-薬師寺朱雀   
+薬師寺朱雀（已毕业）   
+*一期生*   
 <img src="./images/holostars/005.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336260   
 https://twitter.com/yakushijisuzaku   
 https://www.youtube.com/channel/UCGKgJ4MtJ1coi6tWJUfnsQA   
 ### 律可 ###
-律可   
+律可      
+*一期生*   
 <img src="./images/holostars/006.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336267   
 https://twitter.com/rikkaroid   
 https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w   
-### Astel Leda ###
+### 阿斯特尔·瑞达 ###
 アステル・レダ   
+*二期生*   
 <img src="./images/holostars/007.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355938   
 https://twitter.com/astelleda   
 https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg   
 ### 岸堂天真 ###
 岸堂天真   
+*二期生*   
 <img src="./images/holostars/008.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355941   
 https://twitter.com/kishidotemma   
 https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg
 ### 夕刻Robel ###
 夕刻ロベル   
+*二期生*   
 <img src="./images/holostars/009.png" width="200" />    
 https://www.hololive.tv/portfolio/items/355943   
 https://twitter.com/yukokuroberu   
 https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA   
+### 月下Kaoru ###
+月下カオル   
+*三期生*   
+<img src="./images/holostars/010.png" width="200" />   
+https://www.hololive.tv/portfolio/items/446434   
+https://twitter.com/tsukishitakaoru   
+https://www.youtube.com/channel/UCsehvfwaWF6nWuFnXI0AqZQ/   
+### 影山紫円 ###
+影山シエン   
+*三期生*   
+<img src="./images/holostars/011.png" width="200" />   
+https://www.hololive.tv/portfolio/items/446456   
+https://twitter.com/kageyamashien   
+https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g/
+### 荒咬Oga ###
+荒咬オウガ   
+*三期生*   
+<img src="./images/holostars/012.png" width="200" />   
+https://www.hololive.tv/portfolio/items/446458   
+https://twitter.com/aragamioga   
+
 
 # hololive China #
 
 ### 夜霧 ###
 夜霧/Yogiri   
+*一期生*   
 <img src="./images/hololivecn/001.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336224   
 https://twitter.com/Yogiri_hololive   
 https://space.bilibili.com/427061218   
 https://live.bilibili.com/21618129   
 ### 希薇婭 ###
-希薇婭/Civia   
+希薇婭/Civia      
+*一期生*   
 <img src="./images/hololivecn/002.png" width="200" />   
 https://www.hololive.tv/portfolio/items/336405   
 https://twitter.com/Civia_Hololive   
 https://space.bilibili.com/354411419/   
 https://live.bilibili.com/21618138   
 ### 黒桃影 ###
-黒桃影/Spade Echo  
+黒桃影/Spade Echo   
+*一期生*   
 <img src="./images/hololivecn/003.png" width="200" />   
 https://www.hololive.tv/portfolio/items/345961   
 https://twitter.com/SpadeEcho   
@@ -337,22 +376,28 @@ https://space.bilibili.com/456368455
 https://live.bilibili.com/21641569   
 ### 朵莉丝 ###
 朵莉丝/Doris   
+*二期生*   
 瓦瓦子ooc（pixiv ID:25486006）   
 <img src="./images/hololivecn/004.png" width="200" />   
+https://www.hololive.tv/portfolio/items/407567   
 https://twitter.com/Doris_Hololive   
 https://space.bilibili.com/511613156   
 https://live.bilibili.com/21908209   
 ### 阿媂娅 ###
 阿媂娅/Artia   
+*二期生*   
 Paryi（@par1y）   
 <img src="./images/hololivecn/005.png" width="200" />   
+https://www.hololive.tv/portfolio/items/407570   
 https://twitter.com/Artia_Hololive   
 https://space.bilibili.com/511613155   
 https://live.bilibili.com/21908196   
 ### 罗莎琳 ###
-罗莎琳/Rosalyn   
+罗莎琳/Rosalyn  
+*二期生*    
 ちょん＊（@xx_Chon_xx）   
 <img src="./images/hololivecn/006.png" width="200" />   
+https://www.hololive.tv/portfolio/items/407571   
 https://twitter.com/Rosalyn_holoCN   
 https://space.bilibili.com/511613157   
 https://live.bilibili.com/21908222   
@@ -362,7 +407,38 @@ https://live.bilibili.com/21908222
 AZKi  
 <img src="./images/INNK/001.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336226   
-https://twitter.com/AZKi_VDiVA  
-https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw/  
-https://space.bilibili.com/389056211/  
-https://live.bilibili.com/21267062  
+https://twitter.com/AZKi_VDiVA   
+https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw/   
+https://space.bilibili.com/389056211/   
+https://live.bilibili.com/21267062   
+
+# Hololive 印尼 #
+### Airani Iofifteen ###
+アイラニ・イオフィフティーン   
+*一期生*   
+<img src="./images/hololiveid/001.png" width="200" />    
+https://www.hololive.tv/portfolio/items/440326  
+https://twitter.com/airaniiofifteen  
+https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg  
+https://www.facebook.com/Airani-Iofifteen-hololive-ID-111788127142691/  
+https://www.instagram.com/airani_iofifteen/  
+
+### Moona Hoshinova ###
+ムーナ・ホシノヴァ   
+*一期生*   
+<img src="./images/hololiveid/002.png" width="200" />    
+https://www.hololive.tv/portfolio/items/440320  
+https://twitter.com/moonahoshinova  
+https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg  
+https://www.facebook.com/Moona-Hoshinova-hololive-ID-103251478005455/  
+https://www.instagram.com/moonahoshinova/  
+
+### Ayunda Risu ###
+アユンダ・リス   
+*一期生*   
+<img src="./images/hololiveid/003.png" width="200" />    
+https://www.hololive.tv/portfolio/items/440312  
+https://twitter.com/ayunda_risu  
+https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw  
+https://facebook.com/Ayunda-Risu-hololive-ID-103806531282334/  
+https://www.instagram.com/ayunda_risu/  
