@@ -9,6 +9,7 @@ https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg
 
 # YAGOO #
 谷乡元昭   
+Tanigou Motoaki   
 <img src="./images/yagoo.jpg" width="200" />   
 https://twitter.com/tanigox   
 https://ja-jp.facebook.com/tanigo   
