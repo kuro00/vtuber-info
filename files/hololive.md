@@ -260,6 +260,51 @@ https://twitter.com/himemoriluna
 https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw   
 https://space.bilibili.com/491474052/   
 https://live.bilibili.com/21752719   
+### 雪花菈米 ###
+雪花ラミィ   
+*五期生*   
+<img src="./images/hololive/028.png" width="200" />   
+https://www.hololive.tv/portfolio/items/554688   
+https://twitter.com/yukihanalamy   
+https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw/   
+https://space.bilibili.com/624252706   
+https://live.bilibili.com/22349508   
+### 桃铃音音 ###
+桃鈴ねね   
+*五期生*   
+<img src="./images/hololive/029.png" width="200" />   
+https://www.hololive.tv/portfolio/items/554694   
+https://twitter.com/momosuzunene   
+https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA/   
+https://space.bilibili.com/624252709   
+https://live.bilibili.com/22349492   
+### 狮白牡丹 ###
+獅白ぼたん   
+*五期生*   
+<img src="./images/hololive/030.png" width="200" />   
+https://www.hololive.tv/portfolio/items/554695   
+https://twitter.com/shishirobotan   
+https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA/   
+https://space.bilibili.com/624252710   
+https://live.bilibili.com/22349494   
+### 魔乃阿萝耶 ###
+魔乃アロエ   
+*五期生*   
+<img src="./images/hololive/031.png" width="200" />   
+https://www.hololive.tv/portfolio/items/554696   
+https://twitter.com/manoaloe   
+https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw/   
+https://space.bilibili.com/624252711   
+https://live.bilibili.com/22349497   
+### 尾丸波尔卡 ###
+尾丸ポルカ   
+*五期生*   
+<img src="./images/hololive/032.png" width="200" />   
+https://www.hololive.tv/portfolio/items/554697   
+https://twitter.com/omarupolka   
+https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA/   
+https://space.bilibili.com/624252712   
+https://live.bilibili.com/22349506   
 
 # holostars #
 https://space.bilibili.com/444316844/   
