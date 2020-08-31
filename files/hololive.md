@@ -288,7 +288,7 @@ https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA/
 https://space.bilibili.com/624252710   
 https://live.bilibili.com/22349494   
 ### 魔乃阿萝耶 ###
-魔乃アロエ   
+魔乃アロエ（已毕业）   
 *五期生*   
 <img src="./images/hololive/031.png" width="200" />   
 https://www.hololive.tv/portfolio/items/554696   
