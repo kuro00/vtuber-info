@@ -506,12 +506,14 @@ https://space.bilibili.com/674600646
 https://live.bilibili.com/22503364   
 ### 一伊那尔栖 ###   
 にのまえ いなにす/Ninomae Ina’nis   
+<img src="./images/hololiveen/003.png" width="200" />    
 https://www.hololive.tv/portfolio/items/584542   
 https://twitter.com/ninomaeinanis   
 https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg   
 https://space.bilibili.com/674600647   
 https://live.bilibili.com/22503367   
 ### 噶呜·古拉 ###   
+<img src="./images/hololiveen/004.png" width="200" />    
 がうる・ぐら/Gawr Gura   
 https://www.hololive.tv/portfolio/items/584544   
 https://twitter.com/gawrgura   
@@ -520,6 +522,7 @@ https://space.bilibili.com/674600648
 https://live.bilibili.com/22503372   
 ### 华生·阿米莉亚 ###   
 ワトソン・アメリア/Watson Amelia   
+<img src="./images/hololiveen/005.png" width="200" />    
 https://www.hololive.tv/portfolio/items/584546   
 https://twitter.com/watsonameliaen   
 https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg   
