@@ -449,7 +449,7 @@ https://space.bilibili.com/511613157
 https://live.bilibili.com/21908222   
 
 # INNK Music #
-### AZKi ###
+### AZKi ###   
 AZKi  
 <img src="./images/INNK/001.png" width="200" />    
 https://www.hololive.tv/portfolio/items/336226   
@@ -459,7 +459,7 @@ https://space.bilibili.com/389056211/
 https://live.bilibili.com/21267062   
 
 # Hololive 印尼 #
-### Airani Iofifteen ###
+### Airani Iofifteen ###   
 アイラニ・イオフィフティーン   
 *一期生*   
 <img src="./images/hololiveid/001.png" width="200" />    
@@ -468,7 +468,6 @@ https://twitter.com/airaniiofifteen
 https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg  
 https://www.facebook.com/Airani-Iofifteen-hololive-ID-111788127142691/  
 https://www.instagram.com/airani_iofifteen/  
-
 ### Moona Hoshinova ###
 ムーナ・ホシノヴァ   
 *一期生*   
@@ -478,7 +477,6 @@ https://twitter.com/moonahoshinova
 https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg  
 https://www.facebook.com/Moona-Hoshinova-hololive-ID-103251478005455/  
 https://www.instagram.com/moonahoshinova/  
-
 ### Ayunda Risu ###
 アユンダ・リス   
 *一期生*   
@@ -488,3 +486,42 @@ https://twitter.com/ayunda_risu
 https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw  
 https://facebook.com/Ayunda-Risu-hololive-ID-103806531282334/  
 https://www.instagram.com/ayunda_risu/  
+
+# Hololive en #
+### 森美声 ###   
+もり かりおぺ/Mori Calliope   
+<img src="./images/hololiveen/001.png" width="200" />    
+https://www.hololive.tv/portfolio/items/584535   
+https://twitter.com/moricalliope   
+https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg   
+https://space.bilibili.com/674600645   
+https://live.bilibili.com/22503360   
+### 小鸟游琪亚拉 ###   
+小鳥遊 キアラ/Takanashi Kiara   
+<img src="./images/hololiveen/002.png" width="200" />    
+https://www.hololive.tv/portfolio/items/584540   
+https://twitter.com/takanashikiara   
+https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww   
+https://space.bilibili.com/674600646   
+https://live.bilibili.com/22503364   
+### 一伊那尔栖 ###   
+にのまえ いなにす/Ninomae Ina’nis   
+https://www.hololive.tv/portfolio/items/584542   
+https://twitter.com/ninomaeinanis   
+https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg   
+https://space.bilibili.com/674600647   
+https://live.bilibili.com/22503367   
+### 噶呜·古拉 ###   
+がうる・ぐら/Gawr Gura   
+https://www.hololive.tv/portfolio/items/584544   
+https://twitter.com/gawrgura   
+https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g   
+https://space.bilibili.com/674600648   
+https://live.bilibili.com/22503372   
+### 华生·阿米莉亚 ###   
+ワトソン・アメリア/Watson Amelia   
+https://www.hololive.tv/portfolio/items/584546   
+https://twitter.com/watsonameliaen   
+https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg   
+https://space.bilibili.com/674600649   
+https://live.bilibili.com/22503378   
